@@ -156,3 +156,115 @@ You are encouraged to extend and customize it for learning and innovation.
 
 EcoShop Impact is not just a shopping simulation.
 It is a **responsible computing project** that transforms abstract environmental data into meaningful, human-centered insights — proving that clean code and clean choices can go hand in hand.
+Bibliography
+
+Streamlit Documentation
+Streamlit Inc.
+Used for understanding layout design, session state management, and interactive components.
+
+Python Official Documentation
+Python Software Foundation
+Referenced for core language features and standard libraries such as math, time, and random.
+
+Pandas Documentation
+Wes McKinney et al.
+Used for DataFrame creation, grouping, and tabular data analysis in the cart system.
+
+Matplotlib Documentation
+Matplotlib Development Team
+Referenced for bar chart creation and data visualization of carbon impact.
+
+Environmental Impact References (Educational Use)
+
+General studies on carbon footprints and consumer emissions
+
+Average CO₂ absorption by trees (approx. 21 kg CO₂/year)
+
+Vehicle emission equivalence used for awareness-based calculations
+
+Sustainability & Consumer Awareness Sources
+Educational articles and reports on sustainable shopping, eco-friendly alternatives, and responsible consumption patterns.
+Bibliography
+
+Streamlit Documentation
+Streamlit Inc.
+Used for understanding layout design, session state management, and interactive components.
+
+Python Official Documentation
+Python Software Foundation
+Referenced for core language features and standard libraries such as math, time, and random.
+
+Pandas Documentation
+Wes McKinney et al.
+Used for DataFrame creation, grouping, and tabular data analysis in the cart system.
+
+Matplotlib Documentation
+Matplotlib Development Team
+Referenced for bar chart creation and data visualization of carbon impact.
+
+Environmental Impact References (Educational Use)
+
+General studies on carbon footprints and consumer emissions
+
+Average CO₂ absorption by trees (approx. 21 kg CO₂/year)
+
+Vehicle emission equivalence used for awareness-based calculations
+
+Sustainability & Consumer Awareness Sources
+Educational articles and reports on sustainable shopping, eco-friendly alternatives, and responsible consumption patterns.
+Bibliography
+
+Streamlit Documentation
+Streamlit Inc.
+Used for understanding layout design, session state management, and interactive components.
+
+Python Official Documentation
+Python Software Foundation
+Referenced for core language features and standard libraries such as math, time, and random.
+
+Pandas Documentation
+Wes McKinney et al.
+Used for DataFrame creation, grouping, and tabular data analysis in the cart system.
+
+Matplotlib Documentation
+Matplotlib Development Team
+Referenced for bar chart creation and data visualization of carbon impact.
+
+Environmental Impact References (Educational Use)
+
+General studies on carbon footprints and consumer emissions
+
+Average CO₂ absorption by trees (approx. 21 kg CO₂/year)
+
+Vehicle emission equivalence used for awareness-based calculations
+
+Sustainability & Consumer Awareness Sources
+Educational articles and reports on sustainable shopping, eco-friendly alternatives, and responsible consumption patterns.
+Bibliography
+
+Streamlit Documentation
+Streamlit Inc.
+Used for understanding layout design, session state management, and interactive components.
+
+Python Official Documentation
+Python Software Foundation
+Referenced for core language features and standard libraries such as math, time, and random.
+
+Pandas Documentation
+Wes McKinney et al.
+Used for DataFrame creation, grouping, and tabular data analysis in the cart system.
+
+Matplotlib Documentation
+Matplotlib Development Team
+Referenced for bar chart creation and data visualization of carbon impact.
+
+Environmental Impact References (Educational Use)
+
+General studies on carbon footprints and consumer emissions
+
+Average CO₂ absorption by trees (approx. 21 kg CO₂/year)
+
+Vehicle emission equivalence used for awareness-based calculations
+
+Sustainability & Consumer Awareness Sources
+Educational articles and reports on sustainable shopping, eco-friendly alternatives, and responsible consumption patterns.
