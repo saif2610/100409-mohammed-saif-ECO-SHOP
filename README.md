@@ -272,3 +272,9 @@ Educational articles and reports on sustainable shopping, eco-friendly alternati
 Screen shots-
 https://www.canva.com/design/DAG653aGc0I/mfG9l2Z9_YeexlXzw7W8Ig/edit?utm_content=DAG653aGc0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
+👨‍💻 Credits Name: N.Mohammed saif
+Class: 11-IB 
+Roll No: 1000409 
+Mentor: Mrs.syedalibeema s 
+Subject: Computer Science / AI Project: MedTimer – SHOP IMPACT
+School Name: Jain Vidyalaya
